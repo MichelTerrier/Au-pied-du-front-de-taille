@@ -12,7 +12,7 @@
 
 ## [Cette horreur dans la roche](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/6.%20Cette%20horreur%20dans%20la%20roche.pdf)
 
-## [A la niche !](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/7.%20%C3%80%20la%20niche%20!.pdf)
+## [À la niche !](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/7.%20%C3%80%20la%20niche%20!.pdf)
 
 ## [Qui veut casser des oeufs...](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/8.%20Qui%20veut%20casser%20des%20%C5%93ufs%E2%80%A6.pdf)
 
@@ -39,5 +39,24 @@
 ## [L'art est un consensus](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/19.%20L'art%20est%20un%20consensus.pdf)
 
 ## [Armes par destination](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/20.%20Armes%20par%20destination.pdf)
+
+## [Que dirais-tu d'un piquenique](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/21.%20Que%20dirais-tu%20d'un%20piquenique%20!.pdf)
+
+## [Loquor ergo sum](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/22.%20Loquor%20ergo%20sum.pdf)
+
+## [Connard mon amour](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/23.%20Connard%2C%20mon%20amour%20!.pdf)
+
+## [Mort d'un banquier](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/24.%20Mort%20d%E2%80%99un%20banquier.pdf)
+
+## [Ferme ta gueule, répondit l'écho...](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/25.%20Ferme%20ta%20gueule%2C%20r%C3%A9pondit%20l%E2%80%99%C3%A9cho%E2%80%A6.pdf)
+
+## [Cas xde force majeure](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/26.%20Cas%20de%20force%20majeure.pdf)
+
+## [Caisson de décompression](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/27.%20Caisson%20de%20d%C3%A9compression.pdf)
+
+## [Bionique ta mère](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/28.%20Bionique%20ta%20m%C3%A8re.pdf)
+
+
+
 
 
