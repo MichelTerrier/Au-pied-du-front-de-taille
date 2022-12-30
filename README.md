@@ -17,3 +17,27 @@
 ## [Qui veut casser des oeufs...](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/8.%20Qui%20veut%20casser%20des%20%C5%93ufs%E2%80%A6.pdf)
 
 ## [Ils viennent jusque dans vos bras](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/9.%20Ils%20viennent%20jusque%20dans%20vos%20bras%E2%80%A6.pdf)
+
+## [Le lac Malure](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/10.%20Le%20Lac%20Malure.pdf)
+
+## [La maison du mort](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/11.%20La%20maison%20du%20mort.pdf)
+
+## [Le fils de la bonniche](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/12.%20Le%20fils%20de%20la%20bonniche.pdf)
+
+## [Les loupiots](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/13.%20Les%20Loupiots.pdf)
+
+## [Le lapin d'Agricol](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/14.%20Le%20lapin%20d%E2%80%99Agricol.pdf)
+
+## [Le temps des cerises](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/15.%20Le%20temps%20des%20cerises.pdf)
+
+## [Faire pipi dans l'Achéron](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/16.%20Faire%20pipi%20dans%20l%E2%80%99Ach%C3%A9ron.pdf)
+
+## [Ivresse de profundis](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/17.%20Ivresse%20de%20profundis.pdf)
+
+## [L'hôtel des sapins flasques](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/18.%20L'Auberge%20des%20Sapins%20Flasques.pdf)
+
+## [L'art est un consensus](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/19.%20L'art%20est%20un%20consensus.pdf)
+
+## [Armes par destination](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/20.%20Armes%20par%20destination.pdf)
+
+
