@@ -50,7 +50,7 @@
 
 ## [25. Ferme ta gueule, répondit l'écho...](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/25.%20Ferme%20ta%20gueule%2C%20r%C3%A9pondit%20l%E2%80%99%C3%A9cho%E2%80%A6.pdf)
 
-## [26. Cas xde force majeure](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/26.%20Cas%20de%20force%20majeure.pdf)
+## [26. Cas de force majeure](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/26.%20Cas%20de%20force%20majeure.pdf)
 
 ## [27. Bionique ta mère(https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/27.%20Bionique%20ta%20m%C3%A8re.pdf)
 
