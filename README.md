@@ -4,7 +4,7 @@
 
 ## [2. Les carrières du Barroux](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/02.%20Les%20carri%C3%A8res%20du%20Barroux.pdf)
 
-## [3. Joseph Barberaz](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/3.%20Joseph%20Barberaz.pdf)
+## [3. Joseph Barberaz](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/03.%20Joseph%20Barberaz.pdf)
 
 ## [4. Antoine Quirieux](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/4.%20Antoine%20Quirieux.pdf)
 
