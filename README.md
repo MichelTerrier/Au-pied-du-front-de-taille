@@ -10,7 +10,7 @@
 
 ## [5. E miraculoso sporgersi](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/05.%20E%20miracoloso%20sporgersi.pdf)
 
-## [6. Cette horreur dans la roche](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/6.%20Cette%20horreur%20dans%20la%20roche.pdf)
+## [6. Cette horreur dans la roche](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/06.%20Cette%20horreur%20dans%20la%20roche.pdf)
 
 ## [7. À la niche !](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/7.%20%C3%80%20la%20niche%20!.pdf)
 
