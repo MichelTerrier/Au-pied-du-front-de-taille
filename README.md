@@ -14,7 +14,7 @@
 
 ## [7. À la niche !](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/07.%20%C3%80%20la%20niche%20!.pdf)
 
-## [8. Qui veut casser des oeufs...](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/8.%20Qui%20veut%20casser%20des%20%C5%93ufs%E2%80%A6.pdf)
+## [8. Qui veut casser des oeufs...](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/08.%20Qui%20veut%20casser%20des%20%C5%93ufs%E2%80%A6.pdf)
 
 ## [9. Ils viennent jusque dans vos bras](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/9.%20Ils%20viennent%20jusque%20dans%20vos%20bras%E2%80%A6.pdf)
 
