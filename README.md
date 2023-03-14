@@ -54,7 +54,7 @@
 
 ## [27. Bionique ta mère(https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/27.%20Bionique%20ta%20m%C3%A8re.pdf)
 
-## [28. Bionique ta mère](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/28.%20Bionique%20ta%20m%C3%A8re.pdf)
+
 
 
 
