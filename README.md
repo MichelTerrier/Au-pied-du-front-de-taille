@@ -12,7 +12,7 @@
 
 ## [6. Cette horreur dans la roche](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/06.%20Cette%20horreur%20dans%20la%20roche.pdf)
 
-## [7. À la niche !](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/7.%20%C3%80%20la%20niche%20!.pdf)
+## [7. À la niche !](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/07.%20%C3%80%20la%20niche%20!.pdf)
 
 ## [8. Qui veut casser des oeufs...](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/8.%20Qui%20veut%20casser%20des%20%C5%93ufs%E2%80%A6.pdf)
 
