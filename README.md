@@ -6,7 +6,7 @@
 
 ## [3. Joseph Barberaz](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/03.%20Joseph%20Barberaz.pdf)
 
-## [4. Antoine Quirieux](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/4.%20Antoine%20Quirieux.pdf)
+## [4. Antoine Quirieux](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/04.%20Antoine%20Quirieux.pdf)
 
 ## [5. E miraculoso sporgersi](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/5.%20E%20miracoloso%20sporgersi.pdf)
 
