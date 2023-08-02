@@ -52,7 +52,7 @@
 
 ## [26. Cas de force majeure](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/26.%20Cas%20de%20force%20majeure.pdf)
 
-## [27. Bionique ta mère](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/27.%20Bionique%20ta%20m%C3%A8re.pdf)
+## [27. Bionique ta mère](https://github.com/MichelTerrier/Au-pied-du-front-de-taille/blob/main/28.%20Bionique%20ta%20m%C3%A8re.pdf)
 
 
 
